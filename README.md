@@ -16,7 +16,7 @@ Add the following dependency to your composer.json file:
 {
     "require": {
 
-        "stephanecollot/datetimepicker-bundle": "dev-master"
+        "mickaelandrieu/datetimepicker-bundle": "dev-master"
     }
 }
 ```
@@ -24,7 +24,7 @@ Add the following dependency to your composer.json file:
 and then run
 
 ```bash
-php composer.phar update stephanecollot/datetimepicker-bundle
+php composer.phar update mickaelandrieu/datetimepicker-bundle
 ```
 
 ### Step 2: Enable the bundle
